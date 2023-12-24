@@ -38,3 +38,22 @@ A CNN architecture is implemented with convolutional and pooling layers. The CNN
 ### Usage
 
 To run the code, ensure that TensorFlow and other dependencies are installed. The notebook provides step-by-step explanations and can be easily customized for further experimentation.
+
+### Future Work
+
+This project lays the foundation for further exploration and improvements. Potential future work includes:
+
+1. **Hyperparameter Tuning:**
+   - Experiment with different hyperparameter settings to optimize the performance of both the ANN and CNN models.
+
+2. **Architecture Exploration:**
+   - Explore more complex architectures for both ANN and CNN to further enhance their capabilities in image classification tasks.
+
+3. **Data Augmentation:**
+   - Implement data augmentation techniques to artificially increase the diversity of the training dataset, potentially improving generalization.
+
+4. **Transfer Learning:**
+   - Investigate the use of transfer learning with pre-trained models on larger image datasets to boost the models' performance on MNIST.
+
+5. **Deployment:**
+   - Explore deployment options, such as converting the trained models into formats suitable for deployment on edge devices or web applications.
